@@ -10,4 +10,7 @@ square_array(arr)
 # # prints: -9 -8 -7 -6 -5
 #=> [1, 2, 3, 4, 5]
 
+end
+end
+
 # basket.each do |apple|
