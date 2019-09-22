@@ -5,6 +5,7 @@ end 	  numbers.each do |num|
   end
   return new_numbers
 end
+end
 
 # def square_array(numbers)
 #   new_numbers = numbers.collect{|num| num ** 2}
