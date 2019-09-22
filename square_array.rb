@@ -9,3 +9,5 @@ numbers.each do |num|
   
   numbers.collect do |num|
     new_numbers << 
+end 
+end
